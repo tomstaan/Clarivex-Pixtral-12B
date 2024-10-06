@@ -1,5 +1,9 @@
 # Clarivex-Pixtral-12B
 
+## Related Github Repos for Hackathon:
+- React Frontend: https://github.com/tomstaan/clarivex-frontend
+- Frontend API including Speech To Text: https://github.com/tomstaan/clarivex-api
+
 The **Clarivex-Pixtral-12B** model is a fine-tuned version of the Pixtral-12B model, created during the Hack UK - [a16z](https://a16z.com/) and [Mistral](https://mistral.ai/) AI London Hackathon in October 2024. It has been adapted specifically for the Diverse Dermatology Images (DDI) Multimodal Dataset using Parameter-Efficient Fine-Tuning (PEFT) techniques like Low-Rank Adaptation (LoRA). The fine-tuning was completed on a single Nvidia H100 80GB GPU (Sponsor: [Nebius](https://nebius.ai/)), optimizing the model to handle both visual and clinical data for accurate skin disease diagnosis across diverse populations.
 
 
