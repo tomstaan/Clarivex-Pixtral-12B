@@ -23,3 +23,10 @@ The team is listed in alphabetical order:
 - Jacob Walker - [LinkedIn](https://www.linkedin.com/in/jnrwalker/)
 - Lei Xun - [LinkedIn](https://www.linkedin.com/in/lx2u16/)
 - Tomasz Stankiewicz - [LinkedIn](https://www.linkedin.com/in/tomstan/)
+
+## Acknowledgements
+
+We would like to thank the organizers, [a16z](https://a16z.com/) and [Mistral](https://mistral.ai/), for hosting the Hackathon and providing a great platform for collaboration and innovation. Special thanks to the Mistral AI team for their support throughout the event. We are also grateful to [Nebius](https://nebius.ai/) for generously providing us access to the Nvidia H100 80GB GPU and offering technical support, which made the fine-tuning of this model possible.
+
+
+Additionally, we acknowledge the **Trelis Research YouTube Channel** for their excellent tutorials. We learned fine-tuning techniques from the video, [Fine-tuning Pixtral - Multi-modal Vision and Text Model](https://youtu.be/1N76mJ1pMro?si=p2ZtRg-h1yOvjDEk), and data preparation techniques from the video, [Fine-tune Multi-modal LLaVA Vision and Language Models](https://youtu.be/eIziN2QUt8U?si=SlBBKB9ALAOSyjC3), which were invaluable in preparing the DDI Multimodal Dataset for fine-tuning.
