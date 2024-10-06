@@ -12,3 +12,10 @@ To use this dataset more effectively with **Mixtral models**, it's recommended t
 ## Model
 
 The `Pixtral-12B` is a 12-billion-parameter visual-language model (VLM). It supports applications such as image captioning and visual question answering. More details can be found [here](https://huggingface.co/mistral-community/pixtral-12b).
+
+## Team
+
+The team is listed in alphabetical order:
+- Jacob Walker - [LinkedIn](https://www.linkedin.com/in/jnrwalker/)
+- Lei Xun - [LinkedIn](https://www.linkedin.com/in/lx2u16/)
+- Tomasz Stankiewicz - [LinkedIn](https://www.linkedin.com/in/tomstan/)
