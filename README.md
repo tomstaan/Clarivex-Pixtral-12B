@@ -9,9 +9,13 @@ The Diverse Dermatology Images (DDI) Multimodal Dataset is a comprehensive colle
 
 To use this dataset more effectively with **Mixtral models**, it's recommended to convert all images to `.jpg` format as it is more compatible and efficient for processing. Additionally, to prepare the dataset in a format suitable for Hugging Face, you can utilize the provided `create_hf_dataset.py` script, which formats the dataset for seamless integration with Hugging Face's ecosystem.
 
-## Model
+## Pixtral-12B
 
 The `Pixtral-12B` is a 12-billion-parameter visual-language model (VLM). It supports applications such as image captioning and visual question answering. More details can be found [here](https://huggingface.co/mistral-community/pixtral-12b).
+
+## Fine-tuning
+
+Follow the steps in `pixtral_finetune.ipynb`
 
 ## Team
 
