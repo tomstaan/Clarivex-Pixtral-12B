@@ -1,6 +1,17 @@
-Flask
-torch
-transformers
-Pillow
+mistralai
 python-dotenv
+Pillow
+torch  # Ensure torch is installed before flash_attn
+transformers
+accelerate>=0.26.0
+datasets
+peft
+bitsandbytes
+tensorboard
+flash_attn
+matplotlib
+ipywidgets
+jinja2>=3.1.0
+packaging
+flask
 
