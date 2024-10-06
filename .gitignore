@@ -1,0 +1,74 @@
+# Ignore large binary files like model weights, checkpoints, and datasets
+
+# Fine-tuned model directory
+fine-tuned-model/
+
+# Logs directory
+logs/
+
+# Model weights (Hugging Face, PyTorch, etc.)
+*.bin
+*.h5
+*.ckpt
+*.pt
+
+# Hugging Face Trainer artifacts
+runs/
+output_dir/
+results/
+*.pth
+
+# PyTorch or TensorFlow checkpoints
+checkpoint/
+checkpoints/
+
+# Large datasets (customize based on your folder structure)
+data/
+data_raw/
+*.csv
+*.tsv
+*.jsonl
+*.parquet
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+*.out
+
+# Conda environment files
+env/
+*.env
+
+# Ignore virtual environments (optional)
+venv/
+.env/
+
+# Ignore tokenizers cache
+*.cache/
+tokenizers_cache/
+
+# Ignore other large library caches
+.cache/
+transformers_cache/
+pytorch_cache/
+
+# TensorBoard logs
+tb_logs/
+tensorboard/
+
+# Ignore hidden system files (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore eval results if they are large (optional)
+eval_results.txt
+
